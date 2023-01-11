@@ -5,6 +5,8 @@ image to that folder.  And finally commit everything to github!
 
 1. make a new folder (e.g. _images_) to this repo.  Hint: `mkdir`
 
+mkdir Images
+
 2. ensure that the folder is there.  Hint: `ls`
 
 3. download an image you like and save it into the image dir you made
@@ -12,7 +14,12 @@ image to that folder.  And finally commit everything to github!
    
 4. on command line navigate to the image folder.  Hint: `cd`
 
+cd Images
+
 5. ensure that the image is there.  Hint: `ls`
+
+$ ls
+lab_1_image_download.jpg
 
 6. add the image to your git repo.  Hint: `git add image.jpg`
 
